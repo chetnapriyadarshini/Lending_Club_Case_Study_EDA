@@ -23,8 +23,9 @@ In other words, the company wants to understand the driving factors (or driver v
 
 ## Conclusions
 - People with employment length more than 10 years or less than 1 year are likely to default
-- Lower income group(upto 20000) is likely to default
-- Small business loan are likely to default
+- Lower income group(upto 90000) is likely to default
+- High Interest Rate, high loan amount is likely to default.
+- High loan grades have higher interest rate which increases loan risk.
 - People with public reported bankrupticies are highly likely to default
 
 
